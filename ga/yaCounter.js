@@ -3,6 +3,7 @@
         try {
             w.yaCounter = new Ya.Metrika2({
                 id:50031979,
+                //id:50001304,
                 //id: "yourId",
                 clickmap:true,
                 trackLinks:true,
